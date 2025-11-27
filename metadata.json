@@ -1,0 +1,5 @@
+{
+  "name": "Currency Converter AI",
+  "description": "A modern web application that uses AI to provide real-time currency conversions for all world currencies.",
+  "requestFramePermissions": []
+}
